@@ -1,5 +1,9 @@
 # Programming as Composing (with) New Media
 
+Kevin Brock (kevin_brock@ncsu.edu)
+North Carolina State University
+Presented at: Computers & Writing, 2012
+
 ## Introduction
 
 Scholars of rhetoric and composition have spent the last decade expanding beyond the conventional boundaries of the discipline: image (Fleckenstein), sound (Halbritter), games (Gee), and visual design (Kress and van Leeuwen) have all been incorporated into composition theory and practice, with a tremendous amount of scholarship focused on multimodal works (Shipka) created in a variety of media, especially digital media. As Kathleen Yancey has observed, these varied methods of composition have an even wider variety of purposes, and many students often practice far more with emerging technologies and forms of communication than we might be willing to use in the classroom. 
