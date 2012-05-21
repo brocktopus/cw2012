@@ -1,8 +1,8 @@
 # Programming as Composing (with) New Media
 
 Kevin Brock (kevin_brock@ncsu.edu)
-North Carolina State University
-Presented at: Computers & Writing, 2012
+* North Carolina State University
+* Presented at: Computers & Writing, 2012
 
 ## Introduction
 
